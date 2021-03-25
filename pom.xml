@@ -29,7 +29,7 @@
     </dependencyManagement>
 
   <build>
-    <finalName>quip</finalName>
+    <finalName>example-webapp</finalName>
     <plugins>
       <plugin>
         <groupId>io.thorntail</groupId>
